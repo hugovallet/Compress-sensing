@@ -1,1 +1,1 @@
-This is the repository for our compress sensing project.
+This is the repository for our compressed sensing project.
